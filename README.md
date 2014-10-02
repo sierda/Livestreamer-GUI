@@ -11,8 +11,9 @@ Using the program
 ================
 
 Main window
+
   a) Double-Click a row in the table to watch a stream
-  b) 'User Name' field should contain the Twitch username of the user whose followed streams you want to fetchN
+  b) 'User Name' field should contain the Twitch username of the user whose followed streams you want to fetch
   c) 'Livestreamer Path' field should contain the path to your "livestreamer.exe"
   d) 'Quality' is like twitches built in quality selector, if a stream doesn't have a certain quality it will fail to load
   e) 'Fetch Streams' button fetches the 50 most recently live channels that the specified user follows
