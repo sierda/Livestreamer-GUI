@@ -27,3 +27,6 @@ Using the program
     3. 'Copy -> IRC Join String' copies an irc join string for the user to the clipboard (/join #<username>)
     4. 'Copy -> Username' copies the twitch username to the clipboard
     5. 'Fetch streams for this user' fetches the followed streams for the specified user (does not save unless you click 'Save Settings')
+
+
+![alt text](https://camo.githubusercontent.com/e6fd256eff030d70ab7bed79d12429e84e840b9f/687474703a2f2f692e696d6775722e636f6d2f553172327054502e706e67 "Main Window")
