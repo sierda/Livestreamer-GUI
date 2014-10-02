@@ -1,11 +1,15 @@
 Livestreamer-GUI
 ================
-
 View your followed Twitch streamers with Livestreamer instead of with the Flash client.
 
 First-time Setup
 ================
-When you open the project for the first time, add the 'Newtonsoft.Json' as a reference in the c++ project.
+* When you open the project for the first time, add the 'Newtonsoft.Json' as a reference in the c++ project.
+
+Installing (For non coders)
+================
+* After you download the zip; the installer is under "TwitchViewer\TwitchViewer\publish\" and is named "setup.exe"
+* You need ".net 4.5" to use this app (installed by default on win8)
 
 Using the program
 ================
